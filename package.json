@@ -2,7 +2,7 @@
   "name": "bmjxDev",
   "version": "1.0.0",
   "description": "- 👋 Hi, I’m @bmjxDev\r - 👀 I’m interested in ...\r - 🌱 I’m currently learning ...\r - 💞️ I’m looking to collaborate on ...\r - 📫 How to reach me ...",
-  "main": "config.yaml",
+  "main": "README.md",
   "scripts": {
     "start": "hugo server"
   },
