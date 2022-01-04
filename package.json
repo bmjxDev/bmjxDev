@@ -1,20 +1,22 @@
 {
-  "name": "bmjxDev",
-  "version": "1.0.0",
-  "description": "- 👋 Hi, I’m @bmjxDev\r - 👀 I’m interested in ...\r - 🌱 I’m currently learning ...\r - 💞️ I’m looking to collaborate on ...\r - 📫 How to reach me ...",
-  "main": "README.md",
-  "scripts": {
-    "start": "hugo server"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bmjxDev/bmjxDev.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bmjxDev/bmjxDev/issues"
-  },
-  "homepage": "https://github.com/bmjxDev/bmjxDev#readme"
+  "name": "themefisher-boilerplate-free",
+  "version": "2.2.3",
+  "description": "Gulp environment for running HTML themes by themefisher",
+  "keywords": [
+    "gulp",
+    "frontend"
+  ],
+  "author": "Themefisher",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-file-include": "^2.3.0",
+    "gulp-header-comment": "^0.10.0",
+    "gulp-rimraf": "^1.0.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "sass": "^1.37.5"
+  }
 }
